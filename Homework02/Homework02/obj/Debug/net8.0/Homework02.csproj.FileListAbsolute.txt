@@ -1,0 +1,15 @@
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\bin\Debug\net8.0\Homework02.exe
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\bin\Debug\net8.0\Homework02.deps.json
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\bin\Debug\net8.0\Homework02.runtimeconfig.json
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\bin\Debug\net8.0\Homework02.dll
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\bin\Debug\net8.0\Homework02.pdb
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.AssemblyInfoInputs.cache
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.AssemblyInfo.cs
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.csproj.CoreCompileInputs.cache
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.sourcelink.json
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.dll
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\refint\Homework02.dll
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.pdb
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\Homework02.genruntimeconfig.cache
+C:\Users\Tymbark\source\repos\oop-\Homework02\Homework02\obj\Debug\net8.0\ref\Homework02.dll
