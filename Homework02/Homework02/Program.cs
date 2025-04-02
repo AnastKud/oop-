@@ -13,11 +13,11 @@
 
         Student[] students = StudentInputHandler.GetStudents(n);
 
-        StudentProcessor.DisplayStudents(students);
-        StudentProcessor.DisplayExcellentStudents(students);
-
+        StudentProcessor processor = new StudentProcessor();
+        processor.DisplayStudents(students);
+        processor.DisplayExcellentStudents(students);
         Console.WriteLine("Enter group number: ");
         string groupNumber = Console.ReadLine();
-        StudentProcessor.DisplayBadStudentsByGroup(students, groupNumber);
+        processor.DisplayBadStudentsByGroup(students, groupNumber);
     }
 }
