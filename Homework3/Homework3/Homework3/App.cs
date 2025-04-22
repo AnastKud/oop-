@@ -7,12 +7,18 @@ using System.Threading.Tasks;
 
 namespace Homework3
 {
+    /// <summary>
+    /// The main application class that initializes and runs different types of games.
+    /// </summary>
     class App
     {
         private Game gameOne;
         private Game gameTwo;
         private Game gameThree;
 
+        /// <summary>
+        /// Constructor that initializes the game objects.
+        /// </summary>
         public App()
         {
             gameOne = new ConsoleGame();
@@ -20,6 +26,9 @@ namespace Homework3
             gameThree = new PCGame();
         }
 
+        /// <summary>
+        /// Method to run the games.
+        /// </summary>
         public void Run()
         {
             gameOne.Play();
