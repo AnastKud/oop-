@@ -1,0 +1,4 @@
+﻿Ivanov,5 4 5,Fizika,Petrov,12000
+Petrov,3 4 3,Himia,Ivanov,10000
+Sidorov,5 5 5,Fizika,Petrov,13000
+Kuznecov,4 4 4,Matematika,Smirnov,11000
