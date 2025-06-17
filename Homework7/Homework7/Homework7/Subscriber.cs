@@ -14,7 +14,7 @@ namespace Homework7
         /// <summary>Фамилия подписчика.</summary>
         public string LastName { get; set; }
         /// <summary>Адрес подписчика.</summary>
-        public string Address { get; set;
+        public string Address { get; set; }
         /// <summary>Список журналов, на которые подписан пользователь.</summary>
         public List<Magazine> SubscribedMagazines { get; set; }
         /// <summary>

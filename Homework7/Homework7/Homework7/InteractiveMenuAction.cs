@@ -16,7 +16,7 @@ public class InteractiveMenuAction : ISubscriberAction
         while (true)
         {
             Console.Clear();
-            Console.WriteLine("\r\nSelect log ( ← / →, Esc - exit):");
+            Console.WriteLine("\r\nSelect log ( left/right, Esc - exit):");
             Console.WriteLine($">>> {magazines[index]} <<<\n");
 
             new DisplaySubscribersAction(magazines[index]).Execute(subscribers);
